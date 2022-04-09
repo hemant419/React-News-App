@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Cheryl Teh",
+            "title": "555-carat black diamond can be bought at auction with cryptocurrency - Business Insider",
+            "description": "Sotheby's is accepting bitcoin, ethereum, and the stablecoin USDC, according to Coindesk.",
+            "url": "https://www.businessinsider.com/555-carat-black-diamond-can-be-bought-with-cryptocurrency-2022-1",
+            "urlToImage": "https://i.insider.com/61e6501b04ce6e0018d78078?width=1200&format=jpeg",
+            "publishedAt": "2022-01-18T07:43:31Z",
+            "content": "Sotheby's is auctioning off a 555.55-carat black diamond, and crypto enthusiasts can bid for it using cryptocurrency.\r\nDubbed The Enigma, the gem was listed in the Guinness Book of World Records as t… [+1624 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jonathan Keane",
+            "title": "Italy has quietly become one of Big Tech's most prolific antagonists - CNBC",
+            "description": "Italy’s antitrust watchdog slapped Amazon with a hefty $1.28 billion fine in December — but that's only its latest salvo in a string of moves against Big Tech.",
+            "url": "https://www.cnbc.com/2022/01/18/european-regulators-in-italy-france-germany-and-uk-rein-in-big-tech-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106999938-1641977738688-gettyimages-1229817715-27112020-_ama3859.jpeg?v=1641978635",
+            "publishedAt": "2022-01-18T06:47:14Z",
+            "content": "A protest against multinational technology company Amazon during the Covid-19 pandemic, on Nov. 27, 2020, in Rome, Italy.\r\nWhen Italy's competition regulator slapped a hefty fine of 1.13 billion euro… [+5605 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "After flying start, Stellantis must tackle Tesla and China - Reuters",
+            "description": "If playing catch up with Tesla is what everyone in the auto industry is about then Stellantis, the company formed from the merger of Fiat Chrysler and Peugeot, has had a good start – its shares have far outpaced its U.S. rival in its inaugural year.",
+            "url": "https://www.reuters.com/business/autos-transportation/after-flying-start-stellantis-must-tackle-tesla-china-2022-01-18/",
+            "urlToImage": "https://www.reuters.com/resizer/HKA5CTendbFPZKSx4pCAeTTFvsA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BJQNTT7FZ5OZNHNDGDITJEJLOA.jpg",
+            "publishedAt": "2022-01-18T06:31:00Z",
+            "content": "MILAN, Jan 18 (Reuters) - If playing catch up with Tesla is what everyone in the auto industry is about then Stellantis, the company formed from the merger of Fiat Chrysler and Peugeot, has had a goo… [+3899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Chinese Developer Bond Rout Deepens on Hidden Debt Concerns - Bloomberg Markets and Finance",
+            "description": "Mounting concerns about hidden debt is sending Chinese developer bonds plummeting. Bloomberg's Rebecca Choong Wilkins reports on \"Bloomberg Markets: China Op...",
+            "url": "https://www.youtube.com/watch?v=Svv8U6ji9yE",
+            "urlToImage": "https://i.ytimg.com/vi/Svv8U6ji9yE/hqdefault.jpg",
+            "publishedAt": "2022-01-18T05:22:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Brent Oil Climbs to 2014 High as Geopolitical Unrest Returns - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e7fbf6be-782a-11ec-9279-4e5155665a57&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMS0xNy9vaWwtY2xpbWJzLXdpdGgtZ2VvcG9saXRpY2FsLXVucmVzdC1yZXR1cm5pbmctYXMtbWFya2V0LXRpZ2h0ZW5z",
+            "urlToImage": null,
+            "publishedAt": "2022-01-18T04:03:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Andrew Ross Sorkin, Michael J. de la Merced",
+            "title": "Larry Fink’s Letter to CEOs Says Stakeholder Capitalism Is Not ‘Woke’ - The New York Times",
+            "description": "Larry Fink’s latest annual letter to corporate America clarifies, and defends, his approach to social and environmental issues at the world’s largest money manager.",
+            "url": "https://www.nytimes.com/2022/01/17/business/dealbook/larry-fink-blackrock-letter.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/17/lens/17db-fink-photo/17db-fink-photo-facebookJumbo.jpg",
+            "publishedAt": "2022-01-18T04:00:05Z",
+            "content": "Much of this years letter was devoted to Mr. Finks belief that a focus on environmental, social and corporate governance issues E.S.G., for short does not conflict with making money. Reducing a compa… [+1804 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": null,
+            "title": "Here's What Elon Musk Has To Say About Dogecoin's Joke Origins - Benzinga - Benzinga",
+            "description": "Tesla Inc (NASDAQ:TSLA) CEO Elon Musk has...",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/22/01/25077888/heres-what-elon-musk-has-to-say-about-dogecoins-joke-origins",
+            "urlToImage": "https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/screen_shot_2022-01-18_at_9.06.38_am.png?width=720",
+            "publishedAt": "2022-01-18T03:39:00Z",
+            "content": "Tesla Inc (NASDAQ:TSLA) CEO Elon Musk has something to say on the joke origins of the meme cryptocurrency Dogecoin (CRYPTO: DOGE).\r\nWhat Happened: DOGE co-creator Billy Markus said on Twitter Monday … [+1129 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ryan Browne",
+            "title": "Fines for breaches of EU privacy law spike sevenfold to $1.2 billion, as Big Tech bears the brunt - CNBC",
+            "description": "EU data protection authorities have handed out a total of $1.2 billion in fines over breaches of the bloc's GDPR law since Jan. 28, 2021.",
+            "url": "https://www.cnbc.com/2022/01/18/fines-for-breaches-of-eu-gdpr-privacy-law-spike-sevenfold.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104909400-GettyImages-683988510.jpg?v=1532563709",
+            "publishedAt": "2022-01-18T02:58:00Z",
+            "content": "Fines for violations of the European Union's landmark privacy law have soared nearly sevenfold in the past year, according to new research.\r\nEU data protection authorities have handed out a total of … [+4398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Reuters",
+            "title": "China car sector falling short of 'net zero' goals: Greenpeace - Fox Business",
+            "description": "China's massive car sector is on track to bring its climate-warming carbon dioxide emissions to a peak by 2027 but on current trends it is unlikely to meet the country's 2060 \"net zero\" target, environment group Greenpeace said on Tuesday.",
+            "url": "https://www.foxbusiness.com/markets/china-car-sector-falling-short-of-net-zero-goals-greenpeace",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/01/0/0/beijing-traffic-rush-hour-climate-change-china.jpg?ve=1&tl=1",
+            "publishedAt": "2022-01-18T02:16:08Z",
+            "content": "SHANGHAI - China's massive car sector is on track to bring its climate-warming carbon dioxide emissions to a peak by 2027 but on current trends it is unlikely to meet the country's 2060 \"net zero\" ta… [+1412 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "UK self-driving startup Wayve raises $200M to scale up technology - Fox Business",
+            "description": "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners.",
+            "url": "https://www.reuters.com/world/uk/uk-self-driving-startup-wayve-raises-200-mln-scale-up-technology-2022-01-18/",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/01/0/0/wayve-ceo-alex.jpg?ve=1&tl=1",
+            "publishedAt": "2022-01-18T01:59:12Z",
+            "content": "LONDON - British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects … [+2134 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Cara Lombardo",
+            "title": "Kohl’s Is Urged by Macellum to Make Changes or Explore Sale - The Wall Street Journal",
+            "description": "Activist with roughly 5% stake has been in talks with retailer and believes it has suitors",
+            "url": "https://www.wsj.com/articles/macellum-urges-kohls-to-make-changes-or-explore-sale-11642468283",
+            "urlToImage": "https://images.wsj.net/im-469116/social",
+            "publishedAt": "2022-01-18T01:43:00Z",
+            "content": "An activist investor is renewing a push to get department-store chain Kohls Inc. to take action to boost its lagging stock.\r\nMacellum Advisors GP LLC, which has a roughly 5% stake in Kohls, has been … [+362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Arjun Kharpal",
+            "title": "From 6G to big data, China is looking to boost tech's share of its economy - CNBC",
+            "description": "The ambition highlights China's push to get ahead in new technology as it continues a rivalry with the U.S. in areas from semiconductors to AI.",
+            "url": "https://www.cnbc.com/2022/01/18/china-looks-to-boost-techs-share-of-gdp-by-2025-through-6g-big-data.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107001399-1642162483129-gettyimages-1235698851-RAFAPRESS_04102021-1204.jpeg?v=1642162588",
+            "publishedAt": "2022-01-18T01:18:00Z",
+            "content": "China is aiming to boost the digital economy's share of its gross domestic product by 2025, driven by next-generation technologies like 6G internet and big data.\r\nThe ambition highlights China's push… [+2895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9News.com KUSA"
+            },
+            "author": "Jaleesa Irizarry",
+            "title": "How supply chain issues are making it harder to shop for groceries - 9News.com KUSA",
+            "description": "While a strike may have an impact on product availability, so does the massive crisis the supply chain is in right now.",
+            "url": "https://www.9news.com/article/news/local/supply-chain-groceries/73-f5fc59c4-3a10-457f-b235-5685ad67b7a6",
+            "urlToImage": "https://media.9news.com/assets/KUSA/images/c9008859-5c34-4ed8-996f-09f34832b62a/c9008859-5c34-4ed8-996f-09f34832b62a_1140x641.jpg",
+            "publishedAt": "2022-01-18T00:43:00Z",
+            "content": "DENVER King Soopers and the labor union that represents employees were once again in negotiations on Monday. \r\nLast week, thousands of King Soopers workers walked off the job and went on strike over … [+3940 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Plastic crisis needs binding treaty, report says - BBC News",
+            "description": "Pollution from plastics is a global emergency in need of a robust UN treaty, according to a report.",
+            "url": "https://www.bbc.com/news/science-environment-60026748",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8DF8/production/_122744363_057452672.jpg",
+            "publishedAt": "2022-01-18T00:42:29Z",
+            "content": "By Roger HarrabinBBC environment analyst\r\nImage source, Getty Images\r\nPollution from plastics is a global emergency in need of a robust UN treaty, according to a report.\r\nThe Environmental Investigat… [+5851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Jody Serrano",
+            "title": "Amazon Simmers Down, Says It Won’t Block Visa Credit Cards in UK Store on Jan. 19 After All - Gizmodo",
+            "description": "Amazon and Visa are “working closely” to reach an agreement so that the credit cards can be used on the e-commerce site.",
+            "url": "https://gizmodo.com/amazon-simmers-down-says-it-won-t-block-visa-credit-ca-1848373945",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c7ffd20fd7f487a5b59b9f272eae0f02.jpg",
+            "publishedAt": "2022-01-18T00:35:00Z",
+            "content": "When it comes to Amazon and money, never say never. Two days before the e-commerce giant was set to ban Visa credit cards in its UK store, it has changed its tune. Visa credit cards are still welcome… [+2221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin.com"
+            },
+            "author": null,
+            "title": "Singapore Restricts Crypto Ads — Central Bank Says Crypto Trading Not Suitable for the General Public – Regulation Bitcoin News - Bitcoin News",
+            "description": "Singapore’s central bank has issued guidelines to discourage cryptocurrency trading by the general public.",
+            "url": "https://news.bitcoin.com/singapore-restricts-crypto-ads-central-bank-crypto-trading-not-suitable-for-the-general-public/",
+            "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2022/01/mas.jpg",
+            "publishedAt": "2022-01-18T00:32:14Z",
+            "content": "Singapore’s central bank has issued guidelines to discourage cryptocurrency trading by the general public. The central bank emphasized that “the trading of cryptocurrencies is highly risky and not su… [+2921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Joshua Fineman",
+            "title": "Unilever sees investor backlash over $68B bid for GlaxoSmithKline consumer unit - Seeking Alpha",
+            "description": "Unilever Plc (UL) is facing investor backlash over its £50B ($68B) offer for GlaxoSmithKline's (GSK) consumer business",
+            "url": "https://seekingalpha.com/news/3788523-unilever-sees-investor-backlash-over-68b-bid-for-glaxosmithkline-consumer-unit",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1308621282/medium_image_1308621282.jpg",
+            "publishedAt": "2022-01-18T00:20:00Z",
+            "content": "JJFarquitectos/iStock Editorial via Getty Images"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "As.com"
+            },
+            "author": "Maite Knorr-Evans",
+            "title": "Who is included in the Navient settlement? Am I eligible for student loan forgiveness? - AS English",
+            "description": "After a lawsuit filed on behalf of several states against Naviant will see more than 60,000 borrowers have their student debt canceled in the coming months.",
+            "url": "https://en.as.com/en/2022/01/17/latest_news/1642458295_646521.html",
+            "urlToImage": "https://as01.epimg.net/en/imagenes/2022/01/17/latest_news/1642458295_646521_1642464408_noticia_normal.jpg",
+            "publishedAt": "2022-01-18T00:09:08Z",
+            "content": "When the federal government issues you a student loan, it is often serviced by a private company. One of these companies, Navient, which formally was a unit under Sallie Mae, has reached a settlement… [+2669 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Major U.S. airline CEOs warn 5G could ground some planes, wreak havoc - Reuters",
+            "description": "The chief executives of major U.S. passenger and cargo carriers on Monday warned of an impending \"catastrophic\" aviation crisis in less than 36 hours, when AT&T <a href=\"https://www.reuters.com/companies/T.N\" target=\"_blank\">(T.N)</a> and Verizon <a href=\"htt…",
+            "url": "https://www.reuters.com/technology/exclusive-major-us-airline-ceos-urge-action-avoid-catastrophic-5g-flight-2022-01-17/",
+            "urlToImage": "https://www.reuters.com/resizer/-jt2hz-8mB3Il6Crxoex3mcxiZc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C2ZZMXHIVNML3OKKEAV6DC4MRA.jpg",
+            "publishedAt": "2022-01-17T23:38:00Z",
+            "content": "WASHINGTON, Jan 17 (Reuters) - The chief executives of major U.S. passenger and cargo carriers on Monday warned of an impending \"catastrophic\" aviation crisis in less than 36 hours, when AT&amp;T (T.… [+4347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Marcel Pechman",
+            "title": "Bitcoin price can’t find its footing, but BTC fundamentals inspire confidence in traders - Cointelegraph",
+            "description": "Data shows traders still feel confident about BTC price because the futures premium and other fundamentals show no signs of stress.",
+            "url": "https://cointelegraph.com/news/bitcoin-price-can-t-find-its-footing-but-btc-fundamentals-inspire-confidence-in-traders",
+            "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDEvZDM1ODU5MTktZDYxNi00ZDBlLTg0NjktY2RmMTFlM2MyODAxLmpwZw==.jpg",
+            "publishedAt": "2022-01-17T23:32:25Z",
+            "content": "Bitcoins (BTC) sudden crash on Jan. 10 caused the price to trade below $40,000 for the first time in 110 days and this was a wake-up call to leveraged traders. $1.9 billion worth of long (buy) future… [+4078 chars]"
+        }
+    ]
+}
